@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Task Completed</string>
-    <string name="all_task_completed">All tasks completed</string>
-    <string name="nice_work">Nice work!</string>
+    <string name="app_name">Business Card</string>
+    <string name="developer_name_text">Jennifer Doe</string>
+    <string name="developer_desc_text">Android Developer Extraordinaire</string>
+    <string name="phone_no_text">+11 (123) 444 555 666</string>
+    <string name="domain_text">AndroidDev</string>
+    <string name="email_text">jen.doe@android.com</string>
 </resources>
