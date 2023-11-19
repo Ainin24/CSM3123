@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.composequadrant"
+    namespace = "com.example.diceroller"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.composequadrant"
+        applicationId = "com.example.diceroller"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
