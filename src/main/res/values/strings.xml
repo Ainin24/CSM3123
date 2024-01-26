@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PasMan</string>
+    <string name="app_name">PassKeeper</string>
+    <string name="addnew">NewEntiti</string>
 </resources>

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pasman"
+    namespace = "com.example.passkeeper"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.pasman"
+        applicationId = "com.example.passkeeper"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
